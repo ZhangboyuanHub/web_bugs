@@ -1,2 +1,5 @@
 # web_bugs
-Some bugs in Web learning
+
+## Introduction
+
+Some bugs during learning Web.
